@@ -1,4 +1,4 @@
-# *Influencia de las IAs en el aprendizaje humano*
+# *Influencia de las IAs en el Aprendizaje Humano*
 
 ## Desarrollos recientes en Inteligencia Artificial (IA)
 
