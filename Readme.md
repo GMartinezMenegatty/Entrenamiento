@@ -1,3 +1,5 @@
+`#RRGGBB`
+
 # *Influencia de las IAs en el Aprendizaje Humano*
 
 ## Desarrollos recientes en Inteligencia Artificial (IA)
@@ -8,6 +10,7 @@
 
 
 :smile:
+
 
 ![IAs](imagen/IAs.jpg)
 
