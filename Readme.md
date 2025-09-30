@@ -7,4 +7,6 @@
 > La inteligencia artificial ofrece enormes oportunidades para transformar la educación, mejorando el aprendizaje y adaptándose a las necesidades individuales de los estudiantes.
 
 
+![IAs](IAs.jpg)
+
 [Fuente](https://megaprofe.es/impacto-de-la-inteligencia-artificial-en-el-aprendizaje/?)
